@@ -1,0 +1,14 @@
+/Users/bhargavasimha/UnityTCP/ConsoleTCPClient/bin/Debug/net8.0/ConsoleTCPClient
+/Users/bhargavasimha/UnityTCP/ConsoleTCPClient/bin/Debug/net8.0/ConsoleTCPClient.deps.json
+/Users/bhargavasimha/UnityTCP/ConsoleTCPClient/bin/Debug/net8.0/ConsoleTCPClient.runtimeconfig.json
+/Users/bhargavasimha/UnityTCP/ConsoleTCPClient/bin/Debug/net8.0/ConsoleTCPClient.dll
+/Users/bhargavasimha/UnityTCP/ConsoleTCPClient/bin/Debug/net8.0/ConsoleTCPClient.pdb
+/Users/bhargavasimha/UnityTCP/ConsoleTCPClient/obj/Debug/net8.0/ConsoleTCPClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bhargavasimha/UnityTCP/ConsoleTCPClient/obj/Debug/net8.0/ConsoleTCPClient.AssemblyInfoInputs.cache
+/Users/bhargavasimha/UnityTCP/ConsoleTCPClient/obj/Debug/net8.0/ConsoleTCPClient.AssemblyInfo.cs
+/Users/bhargavasimha/UnityTCP/ConsoleTCPClient/obj/Debug/net8.0/ConsoleTCPClient.csproj.CoreCompileInputs.cache
+/Users/bhargavasimha/UnityTCP/ConsoleTCPClient/obj/Debug/net8.0/ConsoleTCPClient.dll
+/Users/bhargavasimha/UnityTCP/ConsoleTCPClient/obj/Debug/net8.0/refint/ConsoleTCPClient.dll
+/Users/bhargavasimha/UnityTCP/ConsoleTCPClient/obj/Debug/net8.0/ConsoleTCPClient.pdb
+/Users/bhargavasimha/UnityTCP/ConsoleTCPClient/obj/Debug/net8.0/ConsoleTCPClient.genruntimeconfig.cache
+/Users/bhargavasimha/UnityTCP/ConsoleTCPClient/obj/Debug/net8.0/ref/ConsoleTCPClient.dll

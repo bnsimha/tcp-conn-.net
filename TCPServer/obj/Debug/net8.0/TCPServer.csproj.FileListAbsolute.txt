@@ -1,0 +1,14 @@
+/Users/bhargavasimha/UnityTCP/TCPServer/bin/Debug/net8.0/TCPServer
+/Users/bhargavasimha/UnityTCP/TCPServer/bin/Debug/net8.0/TCPServer.deps.json
+/Users/bhargavasimha/UnityTCP/TCPServer/bin/Debug/net8.0/TCPServer.runtimeconfig.json
+/Users/bhargavasimha/UnityTCP/TCPServer/bin/Debug/net8.0/TCPServer.dll
+/Users/bhargavasimha/UnityTCP/TCPServer/bin/Debug/net8.0/TCPServer.pdb
+/Users/bhargavasimha/UnityTCP/TCPServer/obj/Debug/net8.0/TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bhargavasimha/UnityTCP/TCPServer/obj/Debug/net8.0/TCPServer.AssemblyInfoInputs.cache
+/Users/bhargavasimha/UnityTCP/TCPServer/obj/Debug/net8.0/TCPServer.AssemblyInfo.cs
+/Users/bhargavasimha/UnityTCP/TCPServer/obj/Debug/net8.0/TCPServer.csproj.CoreCompileInputs.cache
+/Users/bhargavasimha/UnityTCP/TCPServer/obj/Debug/net8.0/TCPServer.dll
+/Users/bhargavasimha/UnityTCP/TCPServer/obj/Debug/net8.0/refint/TCPServer.dll
+/Users/bhargavasimha/UnityTCP/TCPServer/obj/Debug/net8.0/TCPServer.pdb
+/Users/bhargavasimha/UnityTCP/TCPServer/obj/Debug/net8.0/TCPServer.genruntimeconfig.cache
+/Users/bhargavasimha/UnityTCP/TCPServer/obj/Debug/net8.0/ref/TCPServer.dll
